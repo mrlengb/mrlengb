@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Olá meu nome é Murilo Fernandes, tenho 30 anos e natural do Minas Gerais. Sou formado em Engenharia Biomédica e estudo programação desde meados de 2012, quando comecei a criar servidores de jogos online. Desde então, me aventuro no desenvolvimento de projetos voltados para área da saúde, blockchain, integração de sistemas e demais outros.
+Olá meu nome é Murilo Fernandes, tenho 30 anos e sou natural do Minas Gerais. Tenho formação em Engenharia Biomédica e estudo programação desde meados de 2012, quando comecei a criar servidores de jogos online. Desde então, me aventuro no desenvolvimento de projetos voltados para área da saúde, blockchain, integração de sistemas e demais outros.
 
 <p align="left"> 
     <a href="https://github.com/mrldngb?tab=repositories&sort=stargazers">
