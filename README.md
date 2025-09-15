@@ -189,7 +189,7 @@ Olá meu nome é Murilo Fernandes, tenho 30 anos e sou natural do Minas Gerais. 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src=https://github-readme-stats.vercel.app/api?username=mrlengb&show_icons=true&theme=tokyonight&locale=pt-br
+    src=https://github-readme-stats.vercel.app/api?username=mrlengb&show_icons=true&include_all_commits=true&theme=tokyonight&locale=pt-br
   />
 
 <img 
